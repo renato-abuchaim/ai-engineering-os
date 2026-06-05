@@ -53,9 +53,9 @@ Ao invés de usar prompts genéricos, o sistema separa responsabilidades em modo
 | ---------------- | -------------------------------------------- |
 | 📚 STUDY MODE    | Aprendizado técnico e entendimento profundo  |
 | ❓ ASK MODE       | Perguntas, análise e diagnóstico rápido      |
-| 🐛 DEBUG MODE    | Investigação e causa raiz                    |
 | 🧠 PLAN MODE     | Planejamento técnico antes da execução       |
 | 🤖 AGENT MODE    | Implementação e execução                     |
+| 🐛 DEBUG MODE    | Investigação e causa raiz                    |
 | ♻️ REFACTOR MODE | Evolução estrutural e melhoria de código     |
 | 🧪 QA TEST MODE  | Estratégia, cobertura e engenharia de testes |
 
@@ -75,9 +75,9 @@ Ao invés de usar prompts genéricos, o sistema separa responsabilidades em modo
 
 * Quer estudar Playwright → `📚 STUDY MODE`
 * Quer entender um erro rapidamente → `❓ ASK MODE`
-* Quer investigar um bug → `🐛 DEBUG MODE`
 * Quer planejar uma automação → `🧠 PLAN MODE`
 * Quer implementar código → `🤖 AGENT MODE`
+* Quer investigar um bug → `🐛 DEBUG MODE`
 * Quer melhorar arquitetura ou limpar código → `♻️ REFACTOR MODE`
 * Quer estruturar cenários de teste → `🧪 QA TEST MODE`
 
@@ -100,3 +100,76 @@ Ele ajuda a:
 Funciona como um tutor técnico progressivo.
 
 📄 Arquivo: `01-STUDY-MODE.md`
+
+---
+
+# ❓ ASK MODE
+
+O modo **Ask** é usado para:
+
+* perguntas rápidas;
+* análise de erros;
+* dúvidas técnicas;
+* comparações;
+* diagnósticos simples;
+* explicações rápidas.
+
+Ele atua como um copiloto de suporte técnico.
+
+📄 Arquivo: `02-ASK-MODE.md`
+
+---
+
+# 🔄 Ciclo Cognitivo dos Modos
+
+```txt
+📚 STUDY
+   ↓
+❓ ASK
+   ↓
+🧠 PLAN
+   ↓
+🤖 AGENT
+   ↓
+🐛 DEBUG
+   ↓
+♻️ REFACTOR
+   ↓
+🧪 QA TEST
+```
+
+Cada modo resolve um problema diferente do ciclo de engenharia.
+
+---
+
+# 📦 Estrutura Atual do Projeto
+
+Atualmente o projeto utiliza uma estrutura simples e modular:
+
+```txt
+AI-ENGINEERING-OS/
+│
+├── 01-STUDY-MODE.md
+├── 02-ASK-MODE.md
+├── 03-PLAN-MODE.md
+├── 04-AGENT-MODE.md
+├── 05-DEBUG-MODE.md
+├── 06-REFACTOR-MODE.md
+├── 07-QA-TEST-MODE.md
+│
+└── README.md
+```
+
+Cada modo possui:
+
+* perfil próprio;
+* stack própria;
+* áreas de estudo próprias;
+* personalidade própria.
+
+Essa abordagem foi escolhida propositalmente para:
+
+* simplificar manutenção;
+* facilitar aprendizado;
+* permitir evolução gradual do sistema;
+* evitar abstrações prematuras.
