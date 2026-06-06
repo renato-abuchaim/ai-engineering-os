@@ -120,6 +120,23 @@ Ele atua como um copiloto de suporte técnico.
 
 ---
 
+# 🧠 PLAN MODE
+
+O modo **Plan** é responsável por:
+
+* estruturar soluções;
+* planejar implementações;
+* prever riscos;
+* organizar execução;
+* definir estratégia;
+* mapear impacto técnico.
+
+Ele pensa antes da implementação.
+
+📄 Arquivo: `03-PLAN-MODE.md`
+
+---
+
 # 🔄 Ciclo Cognitivo dos Modos
 
 ```txt
@@ -157,6 +174,8 @@ AI-ENGINEERING-OS/
 ├── 06-REFACTOR-MODE.md
 ├── 07-QA-TEST-MODE.md
 │
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
@@ -173,3 +192,18 @@ Essa abordagem foi escolhida propositalmente para:
 * facilitar aprendizado;
 * permitir evolução gradual do sistema;
 * evitar abstrações prematuras.
+
+---
+
+## 📄 Arquivos Auxiliares
+
+Além dos modos principais, o projeto possui alguns arquivos de suporte importantes:
+
+| Arquivo      | Finalidade                                                                         |
+| ------------ | ---------------------------------------------------------------------------------- |
+| `README.md`  | Documentação principal do projeto                                                  |
+| `LICENSE`    | Define a licença de uso e distribuição do projeto                                  |
+| `.gitignore` | Evita versionar arquivos temporários, dependências, builds e informações sensíveis |
+
+---
+
