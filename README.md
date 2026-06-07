@@ -154,6 +154,26 @@ Ele é responsável por:
 
 ---
 
+# 🐛 DEBUG MODE
+
+O modo **Debug** é especializado em:
+
+* investigação de bugs;
+* troubleshooting;
+* causa raiz;
+* análise de logs;
+* testes flaky;
+* problemas intermitentes;
+* observabilidade.
+
+O foco principal é:
+
+* separar sintoma de causa.
+
+📄 Arquivo: `05-DEBUG-MODE.md`
+
+---
+
 # 🔄 Ciclo Cognitivo dos Modos
 
 ```txt
@@ -353,3 +373,60 @@ Você pode adaptar:
 
 ---
 
+## Exemplo de evolução
+
+### Início
+
+```txt id="2e4k6u"
+Tom:
+- didático
+- mais explicativo
+- mais analogias
+- mais exemplos básicos
+```
+
+---
+
+### Evolução
+
+```txt id="1ofn7d"
+Tom:
+- técnico
+- objetivo
+- focado em arquitetura
+- focado em trade-offs
+- menos explicações básicas
+```
+
+---
+
+## ⚠️ O que NÃO deve ser alterado drasticamente
+
+Cada modo possui uma identidade cognitiva própria.
+
+Exemplos:
+
+* 📚 STUDY MODE → didático, progressivo e focado em aprendizado
+* ❓ ASK MODE → consultivo, objetivo e focado em respostas rápidas
+* 🧠 PLAN MODE → estratégico, organizado e focado em planejamento
+* 🤖 AGENT MODE → executor, prático e focado em implementação
+* 🐛 DEBUG MODE → investigativo, analítico e focado em causa raiz
+* ♻️ REFACTOR MODE → arquitetural e focado em qualidade estrutural
+* 🧪 QA TEST MODE → analítico, preventivo e focado em qualidade e cobertura
+
+A recomendação é:
+
+* ajustar o estilo;
+* ajustar o nível técnico;
+* ajustar a profundidade das respostas;
+* ajustar exemplos e explicações;
+
+Sem destruir a função principal do modo.
+
+Isso mantém:
+
+* consistência;
+* especialização;
+* previsibilidade;
+* qualidade das respostas;
+* separação clara de responsabilidades.
