@@ -137,6 +137,23 @@ Ele pensa antes da implementação.
 
 ---
 
+# 🤖 AGENT MODE
+
+O modo **Agent** é o executor técnico.
+
+Ele é responsável por:
+
+* implementar código;
+* gerar estruturas;
+* criar automações;
+* modificar múltiplos arquivos;
+* integrar funcionalidades;
+* executar tarefas técnicas complexas.
+
+📄 Arquivo: `04-AGENT-MODE.md`
+
+---
+
 # 🔄 Ciclo Cognitivo dos Modos
 
 ```txt
@@ -204,6 +221,135 @@ Além dos modos principais, o projeto possui alguns arquivos de suporte importan
 | `README.md`  | Documentação principal do projeto                                                  |
 | `LICENSE`    | Define a licença de uso e distribuição do projeto                                  |
 | `.gitignore` | Evita versionar arquivos temporários, dependências, builds e informações sensíveis |
+
+---
+
+# 🛠️ Como Atualizar os Modos Conforme Sua Evolução
+
+Conforme você evoluir tecnicamente, basta editar diretamente cada modo.
+
+As principais áreas editáveis são:
+
+---
+
+## 1️⃣ Perfil do Operador
+
+Exemplo:
+
+```txt
+## Nível atual
+
+- QA iniciante
+- Aprendendo automação
+```
+
+Conforme evoluir:
+
+```txt
+- QA Automation Engineer
+- Playwright
+- APIs REST
+- CI/CD
+```
+
+---
+
+## 2️⃣ Stack Dinâmica
+
+Exemplo:
+
+```txt
+## Linguagens
+- JavaScript
+
+## Frameworks
+- Playwright
+```
+
+Conforme aprender novas tecnologias:
+
+```txt
+## Linguagens
+- TypeScript
+- Python
+
+## Frameworks
+- Playwright
+- Jest
+- NestJS
+```
+
+---
+
+## 3️⃣ Ferramentas
+
+Exemplo:
+
+```txt
+- Postman
+- VSCode
+```
+
+Evolução:
+
+```txt
+- Docker
+- GitHub Actions
+- Grafana
+- Jira
+```
+
+---
+
+## 4️⃣ Áreas de Estudo
+
+Exemplo:
+
+```txt
+- QA Manual
+- APIs
+```
+
+Evolução:
+
+```txt
+- Performance
+- Segurança
+- Observabilidade
+- Arquitetura de automação
+```
+
+---
+
+# 🎭 Personalidade dos Modos
+
+Todos os modos possuem uma seção de personalidade editável.
+
+Essa seção define:
+
+* comportamento;
+* tom de voz;
+* profundidade;
+* estilo de explicação;
+* ritmo das respostas;
+* forma de raciocínio;
+* e experiência geral de interação.
+
+---
+
+## ✅ O que pode ser alterado
+
+Você pode adaptar:
+
+* formalidade;
+* objetividade;
+* didática;
+* profundidade técnica;
+* estilo de comunicação;
+* ritmo das respostas;
+* nível de detalhamento;
+* quantidade de exemplos;
+* foco em arquitetura, QA, automação ou debugging.
 
 ---
 
