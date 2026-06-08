@@ -1,5 +1,7 @@
 # 🧠 AI Engineering OS — Sistema de Copilotos Especializados para QA e Engenharia
 
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![Status](https://img.shields.io/badge/status-active-green)
 ![QA](https://img.shields.io/badge/QA-Engineering-blue)
 ![AI](https://img.shields.io/badge/AI-Copilots-purple)
 ![Automation](https://img.shields.io/badge/Automation-Workflows-green)
