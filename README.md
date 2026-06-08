@@ -176,6 +176,26 @@ O foco principal é:
 
 ---
 
+# ♻️ REFACTOR MODE
+
+O modo **Refactor** melhora:
+
+* arquitetura;
+* legibilidade;
+* organização;
+* modularização;
+* manutenção;
+* qualidade estrutural.
+
+O objetivo é:
+
+* reduzir dívida técnica;
+* melhorar qualidade sem alterar comportamento esperado.
+
+📄 Arquivo: `06-REFACTOR-MODE.md`
+
+---
+
 # 🔄 Ciclo Cognitivo dos Modos
 
 ```txt
@@ -432,3 +452,19 @@ Isso mantém:
 * previsibilidade;
 * qualidade das respostas;
 * separação clara de responsabilidades.
+
+---
+
+## 🧠 Filosofia do Sistema
+
+Os modos foram projetados para evoluir junto com o operador.
+
+Conforme o conhecimento técnico aumenta:
+
+* a stack evolui;
+* as áreas de estudo evoluem;
+* e a personalidade dos agentes pode evoluir também.
+
+O objetivo é criar copilotos cada vez mais alinhados ao seu fluxo real de engenharia e QA.
+
+---
