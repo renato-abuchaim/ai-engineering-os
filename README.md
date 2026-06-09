@@ -196,6 +196,26 @@ O objetivo é:
 
 ---
 
+# 🧪 QA TEST MODE
+
+O modo **QA TEST** é especializado em qualidade de software.
+
+Ele ajuda a:
+
+* criar cenários de teste;
+* estruturar cobertura;
+* validar fluxos;
+* identificar riscos;
+* planejar automação;
+* estruturar regressão;
+* validar APIs;
+* validar acessibilidade;
+* validar performance.
+
+📄 Arquivo: `07-QA-TEST-MODE.md`
+
+---
+
 # 🔄 Ciclo Cognitivo dos Modos
 
 ```txt
@@ -466,5 +486,28 @@ Conforme o conhecimento técnico aumenta:
 * e a personalidade dos agentes pode evoluir também.
 
 O objetivo é criar copilotos cada vez mais alinhados ao seu fluxo real de engenharia e QA.
+
+---
+
+# 📌 Filosofia do Projeto
+
+Este sistema segue alguns princípios importantes:
+
+* especialização cognitiva;
+* separação de responsabilidades;
+* evolução incremental;
+* simplicidade primeiro;
+* escalabilidade gradual;
+* aprendizado contínuo.
+
+O objetivo não é criar prompts gigantes.
+
+O objetivo é criar:
+
+* copilotos especializados;
+* consistentes;
+* organizados;
+* reutilizáveis;
+* e evolutivos.
 
 ---
