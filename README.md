@@ -511,3 +511,151 @@ O objetivo é criar:
 * e evolutivos.
 
 ---
+
+# 🔮 Evolução Futura da Arquitetura
+
+Atualmente o projeto utiliza uma arquitetura simples, onde cada modo possui:
+
+* perfil próprio;
+* stack própria;
+* áreas de estudo próprias;
+* personalidade própria.
+
+Essa abordagem foi escolhida propositalmente para:
+
+* simplificar manutenção;
+* facilitar aprendizado;
+* permitir evolução gradual;
+* validar os agentes em cenários reais;
+* evitar abstrações prematuras.
+
+---
+
+## 📦 Estrutura Atual
+
+```txt
+AI-ENGINEERING-OS/
+│
+├── 01-STUDY-MODE.md
+├── 02-ASK-MODE.md
+├── 03-PLAN-MODE.md
+├── 04-AGENT-MODE.md
+├── 05-DEBUG-MODE.md
+├── 06-REFACTOR-MODE.md
+├── 07-QA-TEST-MODE.md
+│
+├── .gitignore
+├── LICENSE
+└── README.md
+```
+
+---
+
+## 🎯 Próxima Etapa
+
+Antes de qualquer evolução arquitetural, o foco será:
+
+* validar os 7 modos em projetos reais;
+* utilizar os agentes em estudos, desafios e automações;
+* identificar limitações e pontos de melhoria;
+* evoluir os prompts de forma incremental;
+* consolidar uma versão estável do sistema.
+
+A prioridade atual não é adicionar complexidade.
+
+A prioridade é aprender, testar, validar e evoluir os agentes através do uso prático.
+
+---
+
+## 🚀 Evolução Futura Planejada
+
+Conforme os modos forem utilizados e o sistema amadurecer, poderá ser adotada uma arquitetura centralizada.
+
+Exemplo:
+
+```txt
+AI-ENGINEERING-OS/
+│
+├── agents/
+│   ├── study-agent.md
+│   ├── ask-agent.md
+│   ├── plan-agent.md
+│   ├── agent.md
+│   ├── debug-agent.md
+│   ├── refactor-agent.md
+│   └── qa-test-agent.md
+│
+├── CORE-PROFILE.md
+├── STACK.md
+├── ROADMAP.md
+├── NOTES.md
+│
+└── README.md
+```
+
+Essa estrutura permitirá:
+
+* compartilhamento de contexto entre agentes;
+* atualização centralizada de stack;
+* perfil unificado;
+* memória evolutiva;
+* maior escalabilidade;
+* comportamento mais consistente entre modos;
+* manutenção simplificada.
+
+A migração será realizada apenas quando a complexidade atual justificar essa evolução.
+
+---
+
+# 🚀 Objetivo de Longo Prazo
+
+Transformar este projeto em um:
+
+* AI Engineering OS;
+* sistema pessoal de engenharia;
+* framework de copilotos especializados;
+* ambiente evolutivo de QA e automação;
+* ecossistema modular de IA aplicada à engenharia.
+
+O objetivo não é apenas utilizar IA.
+
+O objetivo é aprender a projetar, organizar, evoluir e orquestrar agentes especializados para resolver problemas reais.
+
+---
+
+# 📚 Público-Alvo
+
+Este projeto é ideal para:
+
+* QA Engineers;
+* QA Automation Engineers;
+* Desenvolvedores;
+* estudantes de tecnologia;
+* profissionais em transição de carreira;
+* pessoas aprendendo IA aplicada à engenharia;
+* profissionais interessados em agentes e sistemas de copilotos especializados.
+
+---
+
+# 📌 Status
+
+🟢 Versão Atual: v1.0
+
+Estado atual:
+
+* 7 modos implementados;
+* arquitetura modular concluída;
+* documentação inicial concluída;
+* repositório estruturado;
+* fase de validação prática iniciada.
+
+Próximos objetivos:
+
+* testar os agentes em desafios reais;
+* identificar oportunidades de melhoria;
+* evoluir os prompts com base em evidências de uso;
+* preparar a versão v1.1.
+
+---
+
+🚧 Projeto em evolução contínua.
